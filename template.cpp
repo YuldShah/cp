@@ -13,7 +13,7 @@
 #define vvi vector<vector<int>>
 #define pii pair<int, int>
 #define vii vector<pair<int, int>>
-#define fr(x) for(int i=0; i<x; i++)
+#define fr(i, x) for(int i=0; i<x; i++)
 #define ll long long
 #define endl '\n'
 
